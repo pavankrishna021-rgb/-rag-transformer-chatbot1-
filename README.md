@@ -16,6 +16,6 @@
 
 ### 4. RAG Chatbot Live!
 *Q: "What is self-attention?"*
-![RAG Answer](screenshot4.png)
+![RAG Answer](Screenshot 2026-02-01 232825.png)
 
 ## 🛠 Tech Stack
