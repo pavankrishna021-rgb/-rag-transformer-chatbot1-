@@ -1,0 +1,8 @@
+langchain==1.2.7
+langchain-core==1.2.7
+langchain-community==0.4.1
+langchain-huggingface==1.2.0
+langchain-text-splitters==1.1.0
+pypdf==4.2.0
+faiss-cpu==1.8.0
+sentence-transformers==3.0.1
