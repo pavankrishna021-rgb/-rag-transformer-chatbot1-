@@ -1,16 +1,21 @@
 
-## 🌐 RAG PIPELINE DIAGRAM
+# 🧠 Transformer Paper RAG Chatbot
 
-```mermaid
-graph TD
-    A[PDF Transformer Paper] --> B[PyPDFLoader 15 Pages]
-    B --> C[Chunking 500-char 80 Chunks]
-    C --> D[Embeddings 384-dim Vectors]
-    D --> E[FAISS Index Ready]
-    
-    Q[User Query] --> F[Query Embedding]
-    F --> G[Top 3 Chunks Retrieved]
-    G --> H[LCEL RAG Chain]
-    H --> I[Grounded Answer]
-    
-    style A
+*Production RAG: LangChain v1.2.7 + FAISS* 
+
+## 📊 LIVE DEMO OUTPUTS
+
+### 1. PDF Processing
+![PDF Loaded](screenshot1.png)
+
+### 2. Semantic Chunking (500/50 overlap)
+![80 Chunks Created](screenshot2.png)
+
+### 3. FAISS Vector Index Ready
+![FAISS Index](screenshot3.png)
+
+### 4. RAG Chatbot Live!
+*Q: "What is self-attention?"*
+![RAG Answer](screenshot4.png)
+
+## 🛠 Tech Stack
