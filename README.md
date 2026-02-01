@@ -5,7 +5,7 @@
 ## 📊 LIVE DEMO OUTPUTS
 
 ### 1. PDF Processing
-![PDF Loaded](screenshot1.png)
+![PDF Loaded](Screenshot 2026-02-01 232732.png)
 
 ### 2. Semantic Chunking (500/50 overlap)
 ![80 Chunks Created](Screenshot 2026-02-01 232752.png)
