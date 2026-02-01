@@ -8,7 +8,7 @@
 ![PDF Loaded](screenshot1.png)
 
 ### 2. Semantic Chunking (500/50 overlap)
-![80 Chunks Created](screenshot2.png)
+![80 Chunks Created](Screenshot 2026-02-01 232752.png)
 
 ### 3. FAISS Vector Index Ready
 ![FAISS Index](Screenshot 2026-02-01 232800.png)
