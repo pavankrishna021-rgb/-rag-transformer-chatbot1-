@@ -11,7 +11,7 @@
 ![80 Chunks Created](screenshot2.png)
 
 ### 3. FAISS Vector Index Ready
-![FAISS Index]()
+![FAISS Index](Screenshot 2026-02-01 232800.png)
 
 ### 4. RAG Chatbot Live!
 *Q: "What is self-attention?"*
